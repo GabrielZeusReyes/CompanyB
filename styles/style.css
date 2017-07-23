@@ -168,7 +168,9 @@ img {
     font-size: 17px;
     line-height: 44px;
 }
-
+#aboutus img {
+    width: 100%;
+}
 
 /*PRODUCTS SECTION*/
 #products {
